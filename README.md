@@ -8,6 +8,6 @@
 * Next install all the dependencies impoerted in (Data Processing.ipynb) and run all the commands.
   * It creates a model and trains the data that we have extracted earlier. You can directly skip the training part and directly got running the modell if you have model.h5 and model.jason files.
 * Next install all the dependencies in (Music Recommendation.ipynb) and run all the commands.
-  * this will thake the picture from the webcam and detect the emotion and give it to music recommendation system.
+  * This will thake the picture from the webcam and detect the emotion and give it to music recommendation system.
 * This model can detect Happy, Surprise very well and Sad, Fear, Angly less accurately.
 * You can change and train train the model to improve the accuracy.
